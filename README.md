@@ -4,8 +4,8 @@
  https://github.com/AzamaYoshia/Sample
 
 ## ローカルリポジトリ
-* お好み焼きレシピ
-　　[okonomi.txt](okonomi.txt)
+* お好み焼きレシピ	
+	[okonomi.txt](okonomi.txt)
 
 ## リモートリポジトリ
 * README.mdを作ってみる
